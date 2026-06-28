@@ -147,8 +147,9 @@ FitTrack-Pro/
 
  Team Members
 
-* Member 1: __________________
-* Member 2: __________________
+SHAAN YADAV
+ESHA JINDAL
+KAUSHAL GUPTA
 
 ---
 
