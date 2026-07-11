@@ -267,4 +267,4 @@ input:focus, select:focus, textarea:focus { outline: 2px solid var(--primary); o
 @media (max-width: 480px) {
   .grid-2 { grid-template-columns: 1fr; }
   .hero-title { font-size: 1.4rem; }
-}
+ }
