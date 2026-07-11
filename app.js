@@ -5,14 +5,14 @@
 /* ---------- Constants & helpers ---------- */
 const $ = (sel, root = document) => root.querySelector(sel);
 const $$ = (sel, root = document) => [...root.querySelectorAll(sel)];
-const STORE_KEY = "fittrackpro_v1";
+const STORE_KEY =  "fittrackpro_v1";
 const DAYS = ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"];
 const QUOTES = [
   "No Pain, No Gain.",
   "Consistency Beats Motivation.",
   "Small Steps Every Day.",
   "Your only limit is you.",
-  "Sweat now, shine later.",
+  "Sweat now,shine later.",
   "Push yourself, no one else will.",
   "Strong is the new beautiful.",
   "Discipline is choosing what you want most."
