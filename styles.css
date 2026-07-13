@@ -11,8 +11,8 @@
   --primary: #6366f1;
   --primary-2: #8b5cf6;
   --accent: #06b6d4;
-  --success: #16a34a;
-  --danger: #ef4444;
+  --success:#16a34a;
+  --danger:  #ef4444;
   --warn: #f59e0b;
   --shadow: 0 10px 30px -12px rgba(40, 50, 90, 0.25);
   --radius: 18px;
@@ -118,12 +118,12 @@ h2 i { color: var(--primary); }
 .progress-bar { height: 100%; width: 0%; border-radius: 99px; background: var(--grad); transition: width .5s cubic-bezier(.22,1,.36,1); }
 
 /* ===================== Buttons ===================== */
-.btn {
+.btn { 
   border: none; cursor: pointer; font-weight: 600; font-size: .9rem;
   padding: 10px 16px; border-radius: 12px; color: #fff; background: var(--grad);
   display: inline-flex; align-items: center; gap: 8px; transition: transform .2s ease, opacity .2s ease;
 }
-.btn:hover { transform: translateY(-2px); }
+.btn:hover { transform:  translateY(-2px); }
 .btn:active { transform: scale(.97); }
 .btn.ghost { background: var(--surface-solid); color: var(--text); border: 1px solid var(--border); }
 .btn.danger { background: linear-gradient(135deg, #ef4444, #b91c1c); }
