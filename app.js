@@ -1,5 +1,5 @@
 /*   ============================================================
-   FitTrack Pro — Vanilla JS (Local Storage powered)
+       FitTrack Pro — Vanilla JS (Local Storage powered)
    ============================================================ */
 
 /* ---------- Constants & helpers ---------- */
